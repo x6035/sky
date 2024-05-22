@@ -3,26 +3,6 @@
 使用Auto.js提供的无障碍权限实现在Sky光遇中自动弹奏[SkyStudio](https://play.google.com/store/apps/details?id=com.Maple.SkyStudio) 导出的曲谱
 
 
-## 更新日志
-
-- 2023/02/16 安装包整合乐谱文件资源，不用再单独复制了
-
-- 2023/02/15 autojs4.x版本不给用了，安装包已换成[autoxjs](https://github.com/kkevsekk1/AutoX/releases)
-
-- 2023/02/09 打包apk
-
-- 2023/02/07 优化不同手机适配问题，添加乐谱搜索功能
-
-- 2023/02/03 添加密钥（需支付获取），开发不易，感谢支持！
-
-- 2023/02/02 添加按键功能 [选谱、暂停、定位、调速]，方便操作！
-
-## 安装教程
-
-1. 下载安装包apk文件，[下载地址](https://github.com/Liang2uv/sky/releases)，百度云：链接：https://pan.baidu.com/s/1dvlnqAddvz5BvJS_FBSJLg 提取码：1314
-
-2. 运行app前请授予悬浮窗、无障碍、访问设备信息等权限
-
 ## 二次开发
 
 1. 安装`autoxjs_5.7.8.apk`
